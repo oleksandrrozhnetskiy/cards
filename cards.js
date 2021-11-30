@@ -5,3 +5,5 @@ cards.forEach(
       	console.log("ccc");
       }
 	)
+
+console.log("ccc")

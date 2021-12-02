@@ -3,6 +3,7 @@ var cards = ['🥰','🦄','🍄','🦊','🍀','🐥','🪲','🐼'];
 cards.forEach(
       function(){
       	console.log("ccc");
+            console.log("new line added");
       })
 
 
